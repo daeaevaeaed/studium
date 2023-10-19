@@ -32,4 +32,5 @@ np.linalg.inv(A) inverse von Matrix A
 np.diag([a,b,c...]): Matrix mit zahlen a b c ... auf der Diagonalen
 np.trace(A): Summe der Spur (Summe der Zahlen auf der Matrix diagonalen)
 np.linalg.det(A) determinante der Matrix A
+
 """
