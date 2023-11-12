@@ -9,8 +9,7 @@ V=np.array([[1],[3],[-3]])
 # print(B/3)
 # print(V.T@B)
 # print(np.linalg.solve(np.array([[2 , -1] ,[ -3 ,2]]),np. array ([1 ,0]) ))
-M=np.diag([1,2,3])
-print(M)
+print(np.block([B,A]))
 
 
 """
